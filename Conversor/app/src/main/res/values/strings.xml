@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Conversor</string>
+    <string name="divisa_base">Divisa Base</string>
+    <string name="divisa_cotizada">Divisa Cotizada</string>
+    <string name="euro">Euro:</string>
+    <string name="_5">5</string>
+    <string name="dolar">dolar</string>
+    <string name="calcular">Calcular</string>
+</resources>
